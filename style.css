@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #0a0a0a;
+    color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background: black;
+    position: sticky;
+    top: 0;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+section {
+    height: 100vh;
+    padding: 50px;
+    text-align: center;
+}
+
+h1 {
+    color: royalblue;
+}
